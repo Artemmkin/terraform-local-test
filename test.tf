@@ -1,5 +1,3 @@
-provider local {}
-
 variable "my_list" {
   default = ["hello", "world"]
 }
